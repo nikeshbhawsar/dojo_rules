@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Large methods
 * Bad package hierarchy
+* Bad package names
